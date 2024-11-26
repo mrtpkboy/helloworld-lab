@@ -1,0 +1,14 @@
+D:\OOB\helloworld-lab\helloworld-lab\HellowWorld\bin\Debug\net8.0\HellowWorld.exe
+D:\OOB\helloworld-lab\helloworld-lab\HellowWorld\bin\Debug\net8.0\HellowWorld.deps.json
+D:\OOB\helloworld-lab\helloworld-lab\HellowWorld\bin\Debug\net8.0\HellowWorld.runtimeconfig.json
+D:\OOB\helloworld-lab\helloworld-lab\HellowWorld\bin\Debug\net8.0\HellowWorld.dll
+D:\OOB\helloworld-lab\helloworld-lab\HellowWorld\bin\Debug\net8.0\HellowWorld.pdb
+D:\OOB\helloworld-lab\helloworld-lab\HellowWorld\obj\Debug\net8.0\HellowWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOB\helloworld-lab\helloworld-lab\HellowWorld\obj\Debug\net8.0\HellowWorld.AssemblyInfoInputs.cache
+D:\OOB\helloworld-lab\helloworld-lab\HellowWorld\obj\Debug\net8.0\HellowWorld.AssemblyInfo.cs
+D:\OOB\helloworld-lab\helloworld-lab\HellowWorld\obj\Debug\net8.0\HellowWorld.csproj.CoreCompileInputs.cache
+D:\OOB\helloworld-lab\helloworld-lab\HellowWorld\obj\Debug\net8.0\HellowWorld.dll
+D:\OOB\helloworld-lab\helloworld-lab\HellowWorld\obj\Debug\net8.0\refint\HellowWorld.dll
+D:\OOB\helloworld-lab\helloworld-lab\HellowWorld\obj\Debug\net8.0\HellowWorld.pdb
+D:\OOB\helloworld-lab\helloworld-lab\HellowWorld\obj\Debug\net8.0\HellowWorld.genruntimeconfig.cache
+D:\OOB\helloworld-lab\helloworld-lab\HellowWorld\obj\Debug\net8.0\ref\HellowWorld.dll
